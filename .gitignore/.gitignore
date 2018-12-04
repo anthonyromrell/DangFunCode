@@ -3,7 +3,11 @@ Temp/
 Obj/
 Build/
 Builds/
-/Assets/AssetStoreTools*
+Assets/AssetStoreTools*
+
+.idea/
+Plugins/
+Packages/
 
 # Visual Studio cache directory
 .vs/
